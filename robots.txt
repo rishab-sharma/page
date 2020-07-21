@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: /goodies
-Sitemap: https://rishab-sharma.github.io/page/sitemap.xml
+Sitemap: https://rishab-sharma.github.io/sitemap.xml
 Host: https://rishab-sharma.github.io
