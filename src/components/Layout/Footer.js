@@ -34,7 +34,7 @@ const Footer = () => (
         <a href="https://gatsbyjs.org" target="__blank">
           &nbsp;gatsby&nbsp;
         </a>
-        by anurag
+         .Template by anurag
       </p>
     </Wrapper>
   </FooterWrapper>
