@@ -45,7 +45,6 @@ export const CodeCard = () => {
       <pre><b>Himalayan Trekker</b></pre>
       <pre><b>Competetive Gamer</b></pre>
       <pre onClick={changeText}>(Click) My Age = {text}</pre>
-      <pre><b>Copy these colors in your life !</b></pre>
     </CodeCardWrapper>
   );
 };
@@ -87,7 +86,6 @@ export const HeroCard = () => {
   return (
     <HeroCardWrapper>
       <CodeCard />
-      <ColorPalette />
     </HeroCardWrapper>
   );
 };

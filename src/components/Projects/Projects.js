@@ -66,7 +66,7 @@ const Projects = () => {
                 src={node.frontmatter.iframe}
               />
               <Tags>
-                <FontAwesomeIcon icon={['fab', 'js']} />
+                <FontAwesomeIcon icon={['fab', 'hotjar']} />
               </Tags>
             </ProjectPreview>
           }
