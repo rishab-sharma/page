@@ -34,10 +34,7 @@ const Footer = () => (
         <a href="https://gatsbyjs.org" target="__blank">
           &nbsp;gatsby&nbsp;
         </a>
-        by
-        <a href="https://github.com/rishab-sharma" target="__blank">
-          &nbsp;me
-        </a>
+        by anurag
       </p>
     </Wrapper>
   </FooterWrapper>
