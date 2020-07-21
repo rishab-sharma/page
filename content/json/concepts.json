@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Robotics - LFR, Counter, Switch, Keyboard Robo",
+    "description": "Robotics - LFR, Counter, Switch, Keyboard Robo",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/robotics"
+    }
+  },
+  {
+    "title": "Retina",
+    "description": "A Deep Learning Driven App under Devlopment",
+    "links": {
+      "image": "concept_firewatch1.png",
+      "github": "https://github.com/rishab-sharma/retina"
+    }
+  },
+  {
+    "title": "Neural Turing Machine in Pytorch",
+    "description": "Neural Turing Machine in Pytorch",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/neural_turing_machine"
+    }
+  },
+  {
+    "title": "Nidaan - Disease Recognition",
+    "description": "Disease recognition through two possible and feasible ways of Image Processing and symptoms analysis",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/nidaan"
+    }
+  },
+  {
+    "title": "OCR on Android",
+    "description": "Model that recognizes handwritten digit images , trained on (MNIST)",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/ocr_on_android"
+    }
+  },
+  {
+    "title": "Self Driving Car Simulation using simple CNN",
+    "description": "Self Driving Car Simulation using simple CNN",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/self_driven_future"
+    }
+  },
+  {
+    "title": "Chatbot - AIML + TF",
+    "description": "Chatbot",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/chatbot_tensor",
+      "demo":"https://rishabbot.herokuapp.com/"
+    }
+  },
+  {
+    "title": "Snack Search - ML Recommender",
+    "description": "A machine Learning Driven app for snack suggestions",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/snack_search"
+    }
+  },
+  {
+    "title": "Cross a Crater - IITB - Eyantra",
+    "description": "A Robot to Cross a Crater Simulation - Eyantra IITB",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/Cross-a-Crater",
+      "demo":"https://www.youtube.com/watch?v=YvBet1sVeNM"
+    }
+  },
+  {
+    "title": "Pratyeti - ML and Blockchain based Navigation System",
+    "description": "ML and Blockchain based Navigation System",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/pratyeti"
+    }
+  },
+  {
+    "title": "Dressopedia - Deep Learning App",
+    "description": "Dressopedia - Deep Learning App",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/dressopidea"
+    }
+  },
+  {
+    "title": "University Hub - NodeJs App",
+    "description": "University Hub - NodeJs App",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/university_hub"
+    }
+  },
+  {
+    "title": "Modi Vs Kejriwal",
+    "description": "A Webapp to detect face of Narendra Modi and Arvind Kejriwal using convolutional Neural Network .",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/recognition"
+    }
+  },
+  {
+    "title": "Latex for One page Two Coloumn PDF",
+    "description": "Latex for One page Two Coloumn PDF",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/latex_for_one_page_two_col"
+    }
+  },
+  {
+    "title": "AIML Based Chatbot",
+    "description": "AIML Based Chatbot",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/AIML_Chatbot"
+    }
+  },
+  {
+    "title": "Lua Non-threaded Scripts for V-rep",
+    "description": "Lua Non-threaded Scripts for V-rep",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/lua_for_Vrep"
+    }
+  },
+  {
+    "title": "OCR - CNN",
+    "description": "OCR",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/cnn-hand-written-digit"
+    }
+  },
+  {
+    "title": "Hackathon App",
+    "description": "Hackathon App",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/emergecy_services"
+    }
+  },
+  {
+    "title": "Trial Geospatial Plotting App",
+    "description": "Trial Geospatial App",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/geospatial_map_plotting"
+    }
+  },
+  {
+    "title": "OCR - Tesseract",
+    "description": "OCR - Tesseract",
+    "links": {
+      "image": "concept_firewatch.png",
+      "github": "https://github.com/rishab-sharma/image_to_text"
+    }
+  }
+]

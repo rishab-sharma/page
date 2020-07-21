@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Data Scientist II - Fynd",
+    "links": {
+      "demo": "https://research.fynd.com",
+      "src": "test"
+    },
+    "description": "Fynd Research Team - Worked on Image Matting, Image similarity, Multi-object Tracking, Key-point Detection"
+  },
+  {
+    "title": "Deep Learning Researcher TREES - ISRO",
+    "links": {
+      "demo": "https://www.isro.gov.in",
+      "src": "test"
+    },
+    "description": "Space Application Center - Worked On Neural Architecture Search, One Shot Learning, Semantic Segmentation, NDVI, H-NAS, Morph-Net, NNI, Lottery Ticket Hypothesis"
+  },
+  {
+    "title": "Machine Learning Intern",
+    "links": {
+      "demo": "https://fynd.com",
+      "src": "test"
+    },
+    "description": "Classification Models for Fashion Attributes | Visual Similarity"
+  },
+  {
+    "title": "Deep Learning Intern",
+    "links": {
+      "demo": "https://bitwiseacademy.com/",
+      "src": "test"
+    },
+    "description": "Natural Language processing for Chatbots - Seq2Seq Models"
+  },
+  {
+    "title": "Summer Intern and Trainee",
+    "links": {
+      "demo": "https://ongcindia.com/",
+      "src": "test"
+    },
+    "description": "Developed a model to predict the next best excavation site using supervised Machine Learning"
+  },
+  {
+    "title": "Product Devlopment Intern",
+    "links": {
+      "demo": "https://hasura.io/",
+      "src": "test"
+    },
+    "description": "Development of Machine Learning Apps on Hasura Platform"
+  }
+]
